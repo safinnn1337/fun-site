@@ -1,0 +1,80 @@
+﻿.container {
+    max-width: 750px;
+    margin: auto;
+    text-align: center;
+    background-color:  #86898f;
+}
+.bi1 {
+    background: #86898f;
+    border-radius: 30px;
+}
+
+
+body {
+    background: #86898f;
+}
+
+.bilol {
+    background-color: #86898f;
+}
+
+
+
+
+.info h1, h2,  h4 {
+    color: #86898f;
+}
+
+
+
+
+
+
+
+img {
+    border-radius: 30px;
+}
+
+.card {
+    padding: 15px 20px;
+    background: #e5ffe7 ;
+    margin-bottom: 20px;
+    border-radius: 35px;
+
+}
+
+p {
+    color: #86898f;
+}
+
+.verh {
+    background: #fff9dc;
+}
+
+
+.video {
+
+}
+
+
+.video__item {
+     width: 500px; height: 500px;
+}
+
+
+.wrapper {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 700px;) {
+    .container {
+        text-align: center;
+        display: block;
+    }
+}
